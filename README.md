@@ -1,7 +1,7 @@
 # Используемый стек
 1. Java 17
 2. Spring 6
-3. Spring-JPA 3
+3. Spring Data JPA 3
 4. Hibernate 6
 5. MySQL 8
 6. TomCat 10.1.9
