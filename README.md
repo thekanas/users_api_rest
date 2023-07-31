@@ -25,6 +25,16 @@ ___
     * Отчество (40 символов, только латинские буквы)   
     * Email (50 символов, стандартный шаблон)   
     * Role (Administrator, Sale User, Customer User, Secure API User)   
+    Например:    
+~~~
+{
+    "lastName" : "lastName",
+    "name" : "name",
+    "patronymic" : "patronymic",
+    "email" : "email@email.com",
+    "role" : "ADMINISTRATOR"
+}
+~~~
 
 * Получение всех пользователей осуществляется GET запросом на адрес ../api/users   
 	Выводимые поля:
